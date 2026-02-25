@@ -2,7 +2,7 @@
 
 | **Attribute** | **Details** |
 | --- | --- |
-| **Name** | kuvi |
+| **Name** | pj/null |
 | **Age / Grade** | 14 / 9 |
 | **Tech Literacy** | high, uses alarms and calendars for reminders. |
 | **Academic Profile** | performs well at school, recently takes a very long while to start doing assignments at home due to multiple conditions. |
@@ -11,7 +11,7 @@
 
 ### **Bio**
 
-kuvi, is a 9th grader with no after-school clubs and all the time in the world before 10PM. and a third of that time goes to having a mental break from school. recently they find themselves struggling to focus on work, usually at school they perform well, but they find it hard to start to get tasks done at home. They like to work on things one at a time, and their mind often shuts down when faced with overlapping tasks to do.
+pj/null, is a 9th grader with no after-school clubs and all the time in the world before 10PM. and a third of that time goes to having a mental break from school. recently they find themselves struggling to focus on work, usually at school they perform well, but they find it hard to start to get tasks done at home. They like to work on things one at a time, and their mind often shuts down when faced with overlapping tasks to do.
 
 ---
 
