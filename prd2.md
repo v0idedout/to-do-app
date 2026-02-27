@@ -1,6 +1,6 @@
 # Product Requirements Document
 
-**App:** *(Unnamed — working title: "SmartDo")*
+**App:** SkyBox
 **Version:** 1.0 (MVP)
 **Date:** February 26, 2026
 **Timeline:** 1–2 weeks
@@ -9,7 +9,7 @@
 
 ## 1. Product Overview
 
-**Product Name:** SmartDo *(working title)*
+**Product Name:** SkyBox
 
 **One-Sentence Description:** A web-based student task manager that automatically organizes deadlines into a prioritized, one-at-a-time view — so students spend less time feeling overwhelmed and more time actually working.
 
