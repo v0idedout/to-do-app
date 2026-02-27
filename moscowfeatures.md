@@ -5,10 +5,10 @@
 ## Context
 
 **Problem Statement:**
-Sam is an ambitious, high-achieving student who needs a pre-determined schedule that aligns tasks with their actual free windows because mental math fails during peak-day exhaustion, leading to a performance gap where their work doesn't reflect their true capabilities.
+pj/null is a 9th grader with unstructured after-school time who needs a pre-determined, one-task-at-a-time schedule that tells them exactly what to work on next, because their mind shuts down when faced with overlapping deadlines and their fragmented system of alarms and calendars doesn't give them a clear, prioritized path — leading to delayed starts, lost time, and work that doesn't reflect what they're actually capable of.
 
 **Target User:**
-A time-constrained, high-cognitive-load student (grades 9–11) who struggles to start or prioritize work at home due to exhaustion and overlapping deadlines, and needs a low-friction system that does the "looking ahead" for them so they can focus on quality when they actually have the energy.
+A student (grades 9–11) with adequate free time but low task-initiation energy, who struggles to start and sequence homework at home due to mental fatigue and overlapping deadlines, and needs a low-friction system that removes the decision of "what do I do first" so they can focus on one thing at a time and actually get it done. *(Substitute: Sam — a high-stakes junior facing a similar prioritization and scheduling gap under heavier time constraints.)*
 
 ---
 
